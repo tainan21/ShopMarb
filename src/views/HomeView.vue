@@ -71,14 +71,14 @@
         <div class="row align-items-center">
           <div class="col-md-6 order-1 order-md-0">
             <div class="banner-content">
-              <span class="tagline">Lorem ipson</span>
+              <span class="tagline">ShopMarb</span>
               <h1>Lorem Ipson</h1>
               <a href="#" class="btn-default">Lorem Ipson</a>
             </div>
           </div>
           <div class="col-md-6 order-0 order-md-1">
             <div class="ban-img">
-              <img src="@/assets/taisebn1.png" class="img-fluid" alt="Responsive image" style="width: 60%;">
+              <img src="@/assets/taisebn1.png" class="img-fluid taiseimage" alt="Responsive image" style="width: 60%;">
             </div>
           </div>
         </div>        
@@ -92,7 +92,7 @@
         <div class="row">
           <div class="col">
             <div class="sec-heading">
-              <h3 class="sec-title">Lorem ipson</h3>
+              <h3 class="sec-title">Confira Ja!</h3>
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@
           <div class="col-sm-4">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/1.jpg" alt="">
+                <img src="@/assets/DreamLipo2.jpg" class="productresponsive" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -123,7 +123,7 @@
           <div class="col-sm-4">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/2.jpg" alt="">
+                <img src="@/assets/MacaBoro1Pote-1000x1000.png" class="productresponsive" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -146,7 +146,7 @@
           <div class="col-sm-4">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/3.jpg" alt="">
+                <img src="@/assets/DreamColageno.jpg" class="productresponsive" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -177,14 +177,12 @@
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="banner-content">
-              <h1>50% off</h1>
-              <h4>Lorem Ipson</h4>
-              <a href="#" class="btn-default">Lorem Ipson</a>
+              <a href="#" class="btn-default">Leve Agora!</a>
             </div>
           </div>
           <div class="col-md-6">
             <div class="ban-img">
-              <img src="@/assets/ban-2.png" alt="">
+              <img src="@/assets/taisebn1.png"  alt="" class="taiseimage"> 
             </div>
           </div>
         </div>        
@@ -193,6 +191,7 @@
     <!-- Banner 02 section end -->
 
     <!-- Popular products start -->
+    <!-- 
     <section class="popular-products">
       <div class="container">
         <div class="row">
@@ -205,7 +204,7 @@
         <div class="product-carousel owl-carousel">
           <div class="product-item">
             <figure class="product-thumb">
-              <img src="@/assets/products/4.jpg" alt="">
+              <img src="@/assets/DreamLipo2.jpg" alt="">
               <div class="action-links">
                 <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                 <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -226,7 +225,7 @@
           </div>
           <div class="product-item">
             <figure class="product-thumb">
-              <img src="@/assets/products/5.jpg" alt="">
+              <img src="@/assets/DreamLipo2.jpg" alt="">
               <div class="action-links">
                 <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                 <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -247,7 +246,7 @@
           </div>
           <div class="product-item">
             <figure class="product-thumb">
-              <img src="@/assets/products/6.jpg" alt="">
+              <img src="@/assets/DreamLipo2.jpg" alt="">
               <div class="action-links">
                 <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                 <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -268,7 +267,7 @@
           </div>          
           <div class="product-item">
             <figure class="product-thumb">
-              <img src="@/assets/products/7.jpg" alt="">
+              <img src="@/assets/DreamLipo2.jpg" alt="">
               <div class="action-links">
                 <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                 <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -290,6 +289,7 @@
         </div>
       </div>
     </section>
+    -->
     <!-- Popular products end -->
 
     <!-- Features section start -->
@@ -343,7 +343,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/8.jpg" alt="">
+                <img src="@/assets/Happyair.jpeg" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -366,7 +366,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/9.jpg" alt="">
+                <img src="@/assets/Happyair.jpeg" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -389,7 +389,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/10.jpg" alt="">
+                <img src="@/assets/Happyair.jpeg" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -412,7 +412,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/11.jpg" alt="">
+                <img src="@/assets/Happyair.jpeg" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -435,7 +435,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/12.jpg" alt="">
+                <img src="@/assets/Happyair.jpeg" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -458,7 +458,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/13.jpg" alt="">
+                <img src="@/assets/Happyair.jpeg" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -481,7 +481,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/14.jpg" alt="">
+                <img src="@/assets/Happyair.jpeg" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -504,7 +504,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/products/15.jpg" alt="">
+                <img src="@/assets/Happyair.jpeg" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
@@ -530,6 +530,7 @@
     <!--Trending Products end -->
 
     <!-- Blog post start -->
+    <!--
     <section class="blog">
       <div class="container">
         <div class="row">
@@ -579,6 +580,7 @@
         </div>
       </div>
     </section>
+    -->
     <!-- Blog post end -->
 
     <!-- Instagram start -->
@@ -621,7 +623,7 @@
     </section>
     <!-- Instagram end -->
 
-    <!-- Footer strat -->
+    <!-- Footer strat
     <footer class="footer">
       <div class="container foo-top">
         <div class="row">
@@ -687,9 +689,10 @@
           </div>
         </div>
       </div>
-
+ -->
+    <footer>
       <div class="container">
-        <p class="copyright">Copyright © 2019 <a href="#">Taise.com</a>. All rights reserved.</p>
+        <p class="copyright">Copyright © 2022 <a href="#">ShopMarb</a>. All rights reserved.</p>
       </div>
     </footer>
     <!-- Footer end -->
@@ -700,5 +703,41 @@
   .bannerfundao{
     background-image: url('@/assets/bg-1.jpg');
     //background-image: url('@/assets/banner1.png');
+  }
+  .banner02{
+    min-height: 400px;
+    /* defina o background como fixo e posicione a imagem */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;  
+    background-size: cover; 
+    display: flex; 
+    align-items: center;
+  }
+  .taiseimage{
+    width: 50%;   
+    padding-top: 40px;
+    display: initial;
+  }
+  .product-item{
+    height: 300px;
+    margin-bottom: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;  
+    background-size: cover;
+    
+  }
+  .productresponsive{
+    width: 100%;
+    height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 </style>
