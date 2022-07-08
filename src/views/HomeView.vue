@@ -73,7 +73,7 @@
             <div class="banner-content">
               <span class="tagline">ShopMarb</span>
               <h1>Lorem Ipson</h1>
-              <a href="#" class="btn-default">Lorem Ipson</a>
+              <a href="https://app.monetizze.com.br/r/AKV20329213" class="btn-default">Confira Já!</a>
             </div>
           </div>
           <div class="col-md-6 order-0 order-md-1">
@@ -102,21 +102,13 @@
               <figure class="product-thumb">
                 <img src="@/assets/DreamLipo2.jpg" class="productresponsive" alt="">
                 <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
-                <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
+                <h5 class="product-name"><a href="http://mon.net.br/22e9dh">Lorem Ipson</a></h5>
               </div>
             </div>
           </div>
@@ -132,14 +124,6 @@
               </figure>
               <div class="product-content">
                 <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
               </div>
             </div>
           </div>
@@ -155,14 +139,6 @@
               </figure>
               <div class="product-content">
                 <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
               </div>
             </div>
           </div>
@@ -288,47 +264,8 @@
           </div>          
         </div>
       </div>
-    </section>
-    -->
+    </section>-->
     <!-- Popular products end -->
-
-    <!-- Features section start -->
-    <section class="features">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-3 col-sm-6">
-            <div class="featureBox">
-              <img src="@/assets/feature-icons/1.png" alt="Cash" class="feat-icon">
-              <h5>Money back gurantee</h5>
-              <p>Lorem IPSOM</p>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="featureBox">
-              <img src="@/assets/feature-icons/2.png" alt="Delivery" class="feat-icon">
-              <h5>Free Delivery</h5>
-              <p>Lorem IPSOM</p>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="featureBox">
-              <img src="@/assets/feature-icons/3.png" alt="Support" class="feat-icon">
-              <h5>Alway support</h5>
-              <p>Lorem IPSOM</p>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="featureBox">
-              <img src="@/assets/feature-icons/4.png" alt="Secure payment" class="feat-icon">
-              <h5>Secure payment</h5>
-              <p>Lorem IPSOM</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Features section end -->
-
     <!--Trending Products start -->
     <section class="trending-products">
       <div class="container">
@@ -351,15 +288,52 @@
                 </div>
               </figure>
               <div class="product-content">
-                <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
+                <h5 class="product-name"><a href="#">Happy Air</a></h5>
+              </div>
+            </div>  
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="product-item">
+              <figure class="product-thumb">
+                <img src="@/assets/Happyair.jpeg" alt="">
+                <div class="action-links">
+                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
                 </div>
-                <p class="price">$35</p>
+              </figure>
+              <div class="product-content">
+                <h5 class="product-name"><a href="#">Happy Air</a></h5>
+              </div>
+            </div>  
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="product-item">
+              <figure class="product-thumb">
+                <img src="@/assets/dream_colageno.png" alt="">
+                <div class="action-links">
+                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                </div>
+              </figure>
+              <div class="product-content">
+                <h5 class="product-name"><a href="#">Dream Colageno</a></h5>
+              </div>
+            </div>  
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="product-item">
+              <figure class="product-thumb">
+                <img src="@/assets/lifeDetox.png" class="img-responsive" alt="">
+                <div class="action-links">
+                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                </div>
+              </figure>
+              <div class="product-content">
+                <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
               </div>
             </div>  
           </div>
@@ -375,14 +349,6 @@
               </figure>
               <div class="product-content">
                 <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
               </div>
             </div>  
           </div>
@@ -398,14 +364,6 @@
               </figure>
               <div class="product-content">
                 <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
               </div>
             </div>  
           </div>
@@ -421,14 +379,6 @@
               </figure>
               <div class="product-content">
                 <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
               </div>
             </div>  
           </div>
@@ -444,83 +394,6 @@
               </figure>
               <div class="product-content">
                 <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
-              </div>
-            </div>  
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="product-item">
-              <figure class="product-thumb">
-                <img src="@/assets/Happyair.jpeg" alt="">
-                <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
-                </div>
-              </figure>
-              <div class="product-content">
-                <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
-              </div>
-            </div>  
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="product-item">
-              <figure class="product-thumb">
-                <img src="@/assets/Happyair.jpeg" alt="">
-                <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
-                </div>
-              </figure>
-              <div class="product-content">
-                <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
-              </div>
-            </div>  
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="product-item">
-              <figure class="product-thumb">
-                <img src="@/assets/Happyair.jpeg" alt="">
-                <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
-                </div>
-              </figure>
-              <div class="product-content">
-                <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
-                <div class="ratings">
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                  <a href="#"><i class="ti-star"></i></a>
-                </div>
-                <p class="price">$35</p>
               </div>
             </div>  
           </div>
