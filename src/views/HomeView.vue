@@ -282,28 +282,28 @@
               <figure class="product-thumb">
                 <img src="@/assets/Happyair.jpeg" alt="">
                 <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
-                <h5 class="product-name"><a href="#">Happy Air</a></h5>
+                <h5 class="product-name"><a href="https://app.monetizze.com.br/r/AKV20329213">Happy Air</a></h5>
               </div>
             </div>  
           </div>
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/Happyair.jpeg" alt="">
+                <img src="@/assets/happyAirGroup.jpeg" alt="">
                 <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
-                <h5 class="product-name"><a href="#">Happy Air</a></h5>
+                <h5 class="product-name"><a href="https://app.monetizze.com.br/r/AKV20329213">Happy Air</a></h5>
               </div>
             </div>  
           </div>
@@ -312,13 +312,13 @@
               <figure class="product-thumb">
                 <img src="@/assets/dream_colageno.png" alt="">
                 <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="http://mon.net.br/22a03s" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="http://mon.net.br/22a03s" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="http://mon.net.br/22a03s" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
-                <h5 class="product-name"><a href="#">Dream Colageno</a></h5>
+                <h5 class="product-name"><a href="http://mon.net.br/22a03s">Dream Colageno</a></h5>
               </div>
             </div>  
           </div>
@@ -327,43 +327,43 @@
               <figure class="product-thumb">
                 <img src="@/assets/lifeDetox.png" class="img-responsive" alt="">
                 <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
-                <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
+                <h5 class="product-name"><a href="http://mon.net.br/22e9dh">Lift Detox</a></h5>
               </div>
             </div>  
           </div>
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/Happyair.jpeg" alt="">
+                <img src="@/assets/MacaBoro1Pote.png" alt="">
                 <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
-                <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
+                <h5 class="product-name"><a href="https://app.monetizze.com.br/r/APC20570150">Maca Negra</a></h5>
               </div>
             </div>  
           </div>
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/Happyair.jpeg" alt="">
+                <img src="@/assets/Kitcom5-MacaBoro.png" alt="">
                 <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="quick-view icon"><i class="ti-eye"></i></a>
+                  <a href="https://app.monetizze.co m.br/r/APC20570150" class="wishlist icon"><i class="ti-heart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
-                <h5 class="product-name"><a href="#">Lorem Ipson</a></h5>
+                <h5 class="product-name"><a href="https://app.monetizze.com.br/r/APC20570150">Maca Negra</a></h5>
               </div>
             </div>  
           </div>
