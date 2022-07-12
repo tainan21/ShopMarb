@@ -130,7 +130,7 @@
           <div class="col-sm-4">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/DreamColageno.jpg" class="productresponsive" alt="">
+                <img src="@/assets/dream_colageno.png" class="productresponsive" alt="">
                 <div class="action-links">
                   <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
                   <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
