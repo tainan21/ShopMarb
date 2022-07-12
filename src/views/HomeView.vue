@@ -52,11 +52,11 @@
               <i class="ti-search"></i>
             </a>
             <a href="#" class="cart-bag icon">
-              <i class="ti-shopping-cart"></i>
+              <i class="ti ti-shopping-cart"></i>
               <span class="itemCount">0</span>
             </a>
             <a href="#" class="wishlist icon">
-              <i class="ti-heart"></i>
+              <i class="ti ti-heart"></i>
               <span class="itemCount">09</span>
             </a>
           </div>
@@ -102,9 +102,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/happyAirtriplo2.jpeg" class="productresponsive" alt="">
                 <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="#" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="#" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="#" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -117,9 +117,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/lifeDetox.png" class="productresponsive" alt="">
                 <div class="action-links">
-                  <a href="http://mon.net.br/22e9dh" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="http://mon.net.br/22e9dh" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="http://mon.net.br/22e9dh" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -132,9 +132,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/Kitcom3-MacaBoro.png" class="productresponsive" alt="">
                 <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="#" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="#" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="#" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -182,9 +182,9 @@
             <figure class="product-thumb">
               <img src="@/assets/DreamLipo2.jpg" alt="">
               <div class="action-links">
-                <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                <a href="#" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                <a href="#" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                <a href="#" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
               </div>
             </figure>
             <div class="product-content">
@@ -203,9 +203,9 @@
             <figure class="product-thumb">
               <img src="@/assets/DreamLipo2.jpg" alt="">
               <div class="action-links">
-                <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                <a href="#" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                <a href="#" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                <a href="#" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
               </div>
             </figure>
             <div class="product-content">
@@ -224,9 +224,9 @@
             <figure class="product-thumb">
               <img src="@/assets/DreamLipo2.jpg" alt="">
               <div class="action-links">
-                <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                <a href="#" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                <a href="#" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                <a href="#" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
               </div>
             </figure>
             <div class="product-content">
@@ -245,9 +245,9 @@
             <figure class="product-thumb">
               <img src="@/assets/DreamLipo2.jpg" alt="">
               <div class="action-links">
-                <a href="#" class="quick-view icon"><i class="ti-eye"></i></a>
-                <a href="#" class="wishlist icon"><i class="ti-heart"></i></a>
-                <a href="#" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                <a href="#" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                <a href="#" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                <a href="#" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
               </div>
             </figure>
             <div class="product-content">
@@ -282,9 +282,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/Happyair.jpeg" class="img-responsive img_product" alt="">
                 <div class="action-links">
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -297,9 +297,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/happyAirGroup.jpeg" class="img-responsive img_product" alt="">
                 <div class="action-links">
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -312,9 +312,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/dream_colageno.png" class="img-responsive img_product" alt="">
                 <div class="action-links">
-                  <a href="http://mon.net.br/22a03s" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="http://mon.net.br/22a03s" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="http://mon.net.br/22a03s" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="http://mon.net.br/22a03s" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="http://mon.net.br/22a03s" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="http://mon.net.br/22a03s" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -327,9 +327,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/lifeDetox.png"  class="img-responsive img_product" alt="">
                 <div class="action-links">
-                  <a href="http://mon.net.br/22e9dh" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="http://mon.net.br/22e9dh" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="http://mon.net.br/22e9dh" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="http://mon.net.br/22e9dh" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -342,9 +342,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/Kitcom3-MacaBoro.png" class="img-responsive img_product" alt="">
                 <div class="action-links">
-                  <a href="https://app.monetizze.com.br/r/APC20570150" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="https://app.monetizze.com.br/r/APC20570150" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="https://app.monetizze.com.br/r/APC20570150" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -357,9 +357,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/Kitcom5-MacaBoro.png" class="img-responsive img_product" alt="">
                 <div class="action-links">
-                  <a href="https://app.monetizze.com.br/r/APC20570150" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="https://app.monetizze.co m.br/r/APC20570150" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="https://app.monetizze.com.br/r/APC20570150" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="https://app.monetizze.co m.br/r/APC20570150" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="https://app.monetizze.com.br/r/APC20570150" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -372,9 +372,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/DreamLipo2.jpg" class="img-responsive img_product" alt="">
                 <div class="action-links">
-                  <a href="http://mon.net.br/22e7b4" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="http://mon.net.br/22e7b4" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="http://mon.net.br/22e7b4" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="http://mon.net.br/22e7b4" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="http://mon.net.br/22e7b4" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="http://mon.net.br/22e7b4" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -387,9 +387,9 @@
               <figure class="product-thumb">
                 <img src="@/assets/DreamLipo3.jpg" class="img-responsive img_product" alt="">
                 <div class="action-links">
-                  <a href="http://mon.net.br/22e7b4" class="quick-view icon"><i class="ti-eye"></i></a>
-                  <a href="http://mon.net.br/22e7b4" class="wishlist icon"><i class="ti-heart"></i></a>
-                  <a href="http://mon.net.br/22e7b4" class="add-cart icon"><i class="ti-shopping-cart"></i></a>
+                  <a href="http://mon.net.br/22e7b4" class="quick-view icon"><i class="ti ti-eye"></i></a>
+                  <a href="http://mon.net.br/22e7b4" class="wishlist icon"><i class="ti ti-heart"></i></a>
+                  <a href="http://mon.net.br/22e7b4" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
                 </div>
               </figure>
               <div class="product-content">
@@ -573,6 +573,8 @@
 
 
 <style lang="scss" scoped>
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script:400,700&display=swap");
   .bannerfundao{
     background-image: url('@/assets/bg-1.jpg');
     //background-image: url('@/assets/banner1.png');
