@@ -1,14 +1,15 @@
 <template>
         <!-- Header strat -->
-    <!--<header class="header">
-      <div class="top-header">
+    <header class="header">
+      <!-- 
+        <div class="top-header">
         <div class="container">
           <div class="row">
             <div class="col">
               <span>Phone: +01 256 25 235</span>
               <span>email: info@eiser.com</span>
             </div>
-            <div class="col text-right">
+           <div class="col text-right">
               <span>gift card</span>
               <span>track order</span>
               <div class="lang d-inline-flex">
@@ -17,16 +18,16 @@
                   <li>Freance</li>
                   <li>Spanis</li>
                 </ul>
-              </div>
+              </div> 
             </div>
           </div>          
         </div>
       </div>
+      -->
       <div class="container">
-        <nav class="navbar">
-          
+        <nav class="navbar">          
           <a href="home-01.html" class="logo">
-            <img src="@/assets/logo.png" alt="">
+            <span class="" style="color: #45424b;font-size: 1.55rem;line-height: 1.2;font-weight: 700;">Marb</span>
           </a>
           <a href="javascript:void(0);" id="mobile-menu-toggler">
             <i class="ti-align-justify"></i>
@@ -40,29 +41,15 @@
                 <li><a href="home-03.html">Home 03</a></li>
               </ul>
             </li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Projects</a></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">MacaNegra</a></li>
+            <li><a href="#">Happy Air</a></li>
+            <li><a href="#">Dream Colageno</a></li>
+            <li><a href="#">Dream Lipo</a></li>
+            <li><a href="#">Lift Detox</a></li>
           </ul>
-
-          <div class="d-inline-flex align-items-center">
-            <a href="#" class="search-icon icon">
-              <i class="ti-search"></i>
-            </a>
-            <a href="#" class="cart-bag icon">
-              <i class="ti ti-shopping-cart"></i>
-              <span class="itemCount">0</span>
-            </a>
-            <a href="#" class="wishlist icon">
-              <i class="ti ti-heart"></i>
-              <span class="itemCount">09</span>
-            </a>
-          </div>
         </nav>
       </div>
-    </header>  -->
+    </header> 
     <!-- Header strat -->
 
     <!-- Banner section start -->
@@ -72,7 +59,7 @@
           <div class="col-md-6 order-1 order-md-0">
             <div class="banner-content">
               <h1>Marb</h1>
-              <span class=""> </span>
+              <span class="">O autocuidado é extremamente importante para ter uma vidade leve, saudável e feliz. Se cuidar nunca será um gasto, mas sim, um investimento. E existe investimento melhor do que cuidar de nós mesmos?</span>
               <a href="https://app.monetizze.com.br/r/AKV20329213" class="btn-default">Confira Já!</a>
             </div>
           </div>
@@ -608,7 +595,7 @@
   .product-thumb{
     display: flex !important;
     width: 100%;
-    height: 271px;
+    height: 100%;
     margin-bottom: 0 !important;
   }
   .img_product{
@@ -618,7 +605,7 @@
   }
   .productresponsive{
     width: 100%;
-    height: 400px;
+    height: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
