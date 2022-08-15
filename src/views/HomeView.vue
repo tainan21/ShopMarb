@@ -42,7 +42,6 @@
               </ul>
             </li>
             <li><a href="#">MacaNegra</a></li>
-            <li><a href="#">Happy Air</a></li>
             <li><a href="#">Dream Colageno</a></li>
             <li><a href="#">Dream Lipo</a></li>
             <li><a href="#">Lift Detox</a></li>
@@ -57,10 +56,9 @@
       <div class="container-fluid">
         <div class="row align-items-center">
           <div class="col-md-6 order-1 order-md-0">
-            <div class="banner-content" >
+            <div class="banner-content">
               <h1>Marb</h1>
               <span class="">O autocuidado é extremamente importante para ter uma vidade leve, saudável e feliz. Se cuidar nunca será um gasto, mas sim, um investimento. E existe investimento melhor do que cuidar de nós mesmos?</span>
-              <a href="https://app.monetizze.com.br/r/AKV20329213" class="btn-default">Confira Já!</a>
             </div>
           </div>
           <div class="col-md-6 order-0 order-md-1">
@@ -84,21 +82,6 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-sm-4">
-            <div class="product-item" style="height: 300px !important;">
-              <figure class="product-thumb">
-                <img src="@/assets/happyAirtriplo2.jpeg" class="productresponsive" alt="">
-                <div class="action-links">
-                  <a href="#" class="quick-view icon"><i class="ti ti-eye"></i></a>
-                  <a href="#" class="wishlist icon"><i class="ti ti-heart"></i></a>
-                  <a href="#" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
-                </div>
-              </figure>
-              <div class="product-content">
-                <h5 class="product-name"><a href="#">Happy Air</a></h5>
-              </div>
-            </div>
-          </div>
           <div class="col-sm-4">
             <div class="product-item">
               <figure class="product-thumb">
@@ -135,7 +118,7 @@
     <!-- Lorem ipson end -->
 
     <!-- Banner 02 section start -->
-    <section class="banner02">
+    <!--<section class="banner02">
       <div class="container-fluid">
         <div class="row align-items-center">
           <div class="col-md-6">
@@ -150,7 +133,7 @@
           </div>
         </div>        
       </div>
-    </section> 
+    </section> -->
     <!-- Banner 02 section end -->
 
     <!-- Popular products start -->
@@ -267,37 +250,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/Happyair.jpeg" class="img-responsive productresponsive img_product" alt="">
-                <div class="action-links">
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="quick-view icon"><i class="ti ti-eye"></i></a>
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="wishlist icon"><i class="ti ti-heart"></i></a>
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
-                </div>
-              </figure>
-              <div class="product-content">
-                <h5 class="product-name"><a href="https://app.monetizze.com.br/r/AKV20329213">Happy Air</a></h5>
-              </div>
-            </div>  
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="product-item">
-              <figure class="product-thumb">
-                <img src="@/assets/happyAirGroup.jpeg" class="img-responsive productresponsive img_product" alt="">
-                <div class="action-links">
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="quick-view icon"><i class="ti ti-eye"></i></a>
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="wishlist icon"><i class="ti ti-heart"></i></a>
-                  <a href="https://app.monetizze.com.br/r/AKV20329213" class="add-cart icon"><i class="ti ti-shopping-cart"></i></a>
-                </div>
-              </figure>
-              <div class="product-content">
-                <h5 class="product-name"><a href="https://app.monetizze.com.br/r/AKV20329213">Happy Air</a></h5>
-              </div>
-            </div>  
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="product-item">
-              <figure class="product-thumb">
-                <img src="@/assets/dream_colageno.png" class="img-responsive productresponsive img_product" alt="">
+                <img src="@/assets/dream_colageno.png" class="img-responsive img_product" alt="">
                 <div class="action-links">
                   <a href="http://mon.net.br/22a03s" class="quick-view icon"><i class="ti ti-eye"></i></a>
                   <a href="http://mon.net.br/22a03s" class="wishlist icon"><i class="ti ti-heart"></i></a>
@@ -312,7 +265,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/lifeDetox.png"  class="img-responsive productresponsive img_product" alt="">
+                <img src="@/assets/lifeDetox.png"  class="img-responsive img_product" alt="">
                 <div class="action-links">
                   <a href="http://mon.net.br/22e9dh" class="quick-view icon"><i class="ti ti-eye"></i></a>
                   <a href="http://mon.net.br/22e9dh" class="wishlist icon"><i class="ti ti-heart"></i></a>
@@ -327,7 +280,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/Kitcom3-MacaBoro.png" class="img-responsive productresponsive img_product" alt="">
+                <img src="@/assets/Kitcom3-MacaBoro.png" class="img-responsive img_product" alt="">
                 <div class="action-links">
                   <a href="https://app.monetizze.com.br/r/APC20570150" class="quick-view icon"><i class="ti ti-eye"></i></a>
                   <a href="https://app.monetizze.com.br/r/APC20570150" class="wishlist icon"><i class="ti ti-heart"></i></a>
@@ -342,7 +295,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/Kitcom5-MacaBoro.png" class="img-responsive productresponsive img_product" alt="">
+                <img src="@/assets/Kitcom5-MacaBoro.png" class="img-responsive img_product" alt="">
                 <div class="action-links">
                   <a href="https://app.monetizze.com.br/r/APC20570150" class="quick-view icon"><i class="ti ti-eye"></i></a>
                   <a href="https://app.monetizze.co m.br/r/APC20570150" class="wishlist icon"><i class="ti ti-heart"></i></a>
@@ -357,7 +310,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/DreamLipo2.jpg" class="img-responsive productresponsive img_product" alt="">
+                <img src="@/assets/DreamLipo2.jpg" class="img-responsive img_product" alt="">
                 <div class="action-links">
                   <a href="http://mon.net.br/22e7b4" class="quick-view icon"><i class="ti ti-eye"></i></a>
                   <a href="http://mon.net.br/22e7b4" class="wishlist icon"><i class="ti ti-heart"></i></a>
@@ -372,7 +325,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="product-item">
               <figure class="product-thumb">
-                <img src="@/assets/DreamLipo3.jpg" class="img-responsive productresponsive img_product" alt="">
+                <img src="@/assets/DreamLipo3.jpg" class="img-responsive img_product" alt="">
                 <div class="action-links">
                   <a href="http://mon.net.br/22e7b4" class="quick-view icon"><i class="ti ti-eye"></i></a>
                   <a href="http://mon.net.br/22e7b4" class="wishlist icon"><i class="ti ti-heart"></i></a>
@@ -565,12 +518,6 @@
   .bannerfundao{
     background-image: url('@/assets/bg-1.jpg');
     //background-image: url('@/assets/banner1.png');
-  }
-  .banner-content{
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
   }
   .banner02{
     min-height: 400px;
